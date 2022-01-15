@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @dustinrathke
+- 👀 I’m currently a Business Analyst in Austin, TX
+- 🌱 I’m currently studying Data Science online in hopes of working as a data scientist in the future
+- 📫 I can be reached at dustinrathke@pm.me
